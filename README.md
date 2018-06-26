@@ -9,6 +9,8 @@ This todo app use react and redux. it was created just for one basic tutorial. T
 ![](/screenshots/03.jpg)
 ![](/screenshots/04.jpg)
 
+## How to install and run the app
+In the project directory, run in your terminal `npm install` and then `npm start`
 
 ## Available Scripts
 
